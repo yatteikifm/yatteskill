@@ -1,0 +1,8 @@
+{
+  "name": "alexa-skill",
+  "description": "",
+  "memory": 128,
+  "timeout": 5,
+  "role": "YOUR_ROLE",
+  "environment": {}
+}

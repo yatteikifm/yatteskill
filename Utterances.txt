@@ -1,0 +1,4 @@
+PlayAudio 再生
+PlayAudio やっていく
+AMAZON.NoIntent しません
+AMAZON.NoIntent しない

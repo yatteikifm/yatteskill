@@ -1,0 +1,19 @@
+{
+  "name": "yatteskill",
+  "version": "1.0.0",
+  "description": "alexaスキルでpodcastの再生",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "audio player"
+  ],
+  "dependencies": {
+    "alexa-sdk": "^1.0.4",
+    "feedparser": "^2.2.8",
+    "request": "^2.83.0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "session": {
+    "new": true,
+    "sessionId": "",
+    "application": {
+      "applicationId": ""
+    },
+    "attributes": {},
+    "user": {
+      "userId": ""
+    }
+  },
+  "request": {
+    "type": "IntentRequest",
+    "requestId": "",
+    "intent": {
+      "name": "PlayAudio",
+      "slots": {}
+    },
+    "locale": "ja-JP",
+    "timestamp": "2018-01-27T08:04:11Z"
+  },
+  "context": {
+    "AudioPlayer": {
+      "playerActivity": "IDLE"
+    },
+    "System": {
+      "application": {
+        "applicationId": ""
+      },
+      "user": {
+        "userId": ""
+      },
+      "device": {
+        "supportedInterfaces": {
+          "AudioPlayer": {}
+        }
+      }
+    }
+  },
+  "version": "1.0"
+}

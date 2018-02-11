@@ -1,0 +1,5 @@
+{
+  "environment": {
+    "ALEXA_APPLICATION_ID": "YOUR_APPLICATION_ID"
+  }
+}
